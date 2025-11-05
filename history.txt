@@ -1,0 +1,20 @@
+*   de1aa6a feature2
+|\  
+| * 46f7d1b feature2 change
+* |   ce6e300 feature1
+|\ \  
+| * | d6a7717 feature1 change
+| |/  
+| * d8d9564 add data.txt 5
+| * 22cc565 add data.txt 4
+| | * e9c15ae №3
+| | * 42637a3 add data.txt 5
+| | * f0c0e6e add data.txt 4
+| |/  
+|/|   
+* | 91fa834 №5
+|/  
+* 5099c93 add data.txt 3
+* 6fd6a6a add data.txt 2
+* f23d304 add data.txt 1
+* ba330b7 init
